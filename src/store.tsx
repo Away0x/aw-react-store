@@ -1,4 +1,3 @@
-// unstated-next: https://github.com/jamiebuilds/unstated-next
 import React, { ComponentProps } from "react"
 import { Store, BaseValue } from './type';
 
