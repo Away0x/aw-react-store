@@ -1,5 +1,5 @@
 import { useState, useCallback } from 'react';
-import { BaseValue, createStore } from '@lib';
+import { BaseValue, createStore } from 'aw-react-store';
 
 interface State {
   count: number;
